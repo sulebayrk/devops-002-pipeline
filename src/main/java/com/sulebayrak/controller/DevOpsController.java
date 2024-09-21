@@ -1,4 +1,4 @@
-package com.sulebayrk.controller;
+package com.sulebayrak.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
